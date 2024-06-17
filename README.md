@@ -37,3 +37,6 @@
 ## OpenSourse:
 
 https://github.com/gravity-ui/uikit/pull/1648#issuecomment-2172838301
+https://github.com/etroynov/typescript-book/pull/131#event-13183445748
+https://github.com/etroynov/typescript-book/pull/129
+https://github.com/etroynov/typescript-book/pull/127
