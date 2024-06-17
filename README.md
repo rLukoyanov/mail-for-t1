@@ -31,3 +31,9 @@
 [Карьерный лист](https://talent.kruzhok.org/user/127504)  по олимпиадам ОНТИ (сейчас НТО)
 
 [Телега](https://t.me/rLukoyanov)
+
+
+
+## OpenSourse:
+
+https://github.com/gravity-ui/uikit/pull/1648#issuecomment-2172838301
